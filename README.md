@@ -1,8 +1,7 @@
-# UNP-Project-BI-with-Power-BI_-HR-EMPLOYEE-ATTRITION-
-
+# UNP-Project_BI-with-Power-BI_Human-resource
 Completed UNP POWER BI project with UNITED NETWORK OF PROFESSIONALS
 
-Key Highlights :
+Key Highlights : 
 
 To improve Human Resource Management with the HR Employee Attrition data using PowerBI. Visualize key attrition metrics, analyse trends and empower decision-makers with actionable insights for effective employee retention and strategic HR planning.
 
