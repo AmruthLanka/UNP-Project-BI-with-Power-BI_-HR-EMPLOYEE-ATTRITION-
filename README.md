@@ -10,4 +10,4 @@ CANVA LINK : https://www.canva.com/design/DAF4DZk1bW4/dNPAndSINLOijuh60VM7aw/edi
 
 PBIX FILE LINK : https://drive.google.com/file/d/154VZBMN1Oojr3eQPg0eqpx6WRyZDDEP2/view?usp=sharing
 
-PDF LINK : https://drive.google.com/file/d/1hfdpmAo9Cttol33scvkoXua5B8ShBEvu/view?usp=sharing
+PDF LINK : https://drive.google.com/file/d/1v-ehC6h8iiw289fpGvkgnj3YoAXpdtOb/view?usp=sharing
