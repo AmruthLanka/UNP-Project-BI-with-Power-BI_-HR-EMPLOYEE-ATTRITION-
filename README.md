@@ -1,4 +1,4 @@
-# UNP-Project_BI-with-Power-BI_Human-resource
+# UNP-Project_BI-with-Power-BI_Human-Resource
 Completed UNP POWER BI project with UNITED NETWORK OF PROFESSIONALS
 
 Key Highlights : 
